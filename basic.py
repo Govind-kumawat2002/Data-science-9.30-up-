@@ -1,26 +1,48 @@
 # String 
 # name = "Rohit one"
+a = 1
+
 # new_variable = name.replace("Rohit","Ritik")
+# predifine print()
+#  
 # print(new_variable)
+# 
 # upper_name_var=name.upper()
+# 
 # print(upper_name_var)
+
 # new_variable = name.replace("rohit","Ritik")
 # print(new_variable)
 # name is variable name 
 # print(name)
+
+
+# data type 
+
+
 # intro = """hello my name 
-# is rohit """
+# # is rohit """
+# a = """hello my name
+# is govind """
+# a = """In the vast and dynamic realm of human knowledge and endeavor, the continuous evolution of technology and science has been a cornerstone of societal advancement. From the inception of basic tools in the ancient world to the sophisticated and intricate systems of the modern era, humanity’s journey has been marked by a relentless pursuit of innovation and improvement."""
+# print(a)
+# Historical Context
+
+# The journey of technological and scientific progress can be traced back to the early civilizations. The advent of agriculture allowed humans to transition from nomadic lifestyles to settled communities, fostering the growth of cultures and societies. Ancient civilizations such as Mesopotamia, Egypt, the Indus Valley, and China laid the groundwork for many scientific and technological advancements that we benefit from today. They developed writing systems, built monumental structures, and created the earliest forms of mathematics and astronomy.
+
 # cls = "one"
 # print(name+ " "+cls)
 # found = intro in name
+# in not in 
 # # print(found)
 # name = "Rohit one"
 # upper_name=name.upper()
 # print(upper_name)
 # name1 = "LOKESH"
 # print(name1.lower())
-# # print(lower_var)
+# print(lower_var)
 # name1 = "LOKESH"
+# name[2]
 # print(name1[0:3])
 # print(len(name1))
 
@@ -28,9 +50,19 @@
 
 # position = name1[0]
 # print(position)
+# python website
+# app 
+# backand
+# ml and dl 
+# R R 
+# c 
+# java 
+
+
 
 #>>>>>>>>>>>>>>>>>>>>>>Tuple<<<<<<<<<<<<<<<<<<<<<<
 # name =  ('ritik','ram','harsh','55')
+
 
 # print(name)
 # position
@@ -41,6 +73,7 @@
 # name =  ('ritik','ram','(hello','govind')
 # >>>>>>>>>>>>>>>>list<<<<<<<<<<<<<<<<<<<<<<<
 # lst = [1,2,3,4,5]
+# a = [     ]
 # len count
 # print(len(lst))
 # position 
@@ -89,10 +122,15 @@
 
 # 
 # >>>>>>>>>>>>>>>>>>>>>>>>Dict<<<<<<<<<<<<<<<<<<<<<<
+
 # formate = {key : value }
+
+
 # dct = {'name':"Ritk",'cls':"second year","Rollno":'21'}
 # name is key and ritik is value
 # print(dct['name'])
+# (['name', 'cls', 'Rollno'])
+
 # print(dct['name'])
 
 # print(dct)
@@ -101,6 +139,7 @@
 # print(dct.values())
 
 # dct = {'name':"Ritk",'cls':"second year","Rollno":'21'}
+# print(dct)
 
 # for key in dct:
 #     print(key)
@@ -113,6 +152,9 @@
 # print(dct.get('name',0))
 
 # del dct['name']
+# for x in dct.keys():
+#     print(x)
+
 
 
 
@@ -123,7 +165,10 @@
 # for x in name:
 #     print(x)
 # >>>>>>>>>>>>>>>>>>>>>>>>set<<<<<<<<<<<<<<<<<<<<<<
-sat = {1,2,3,4}     
+# a = {    }
+
+
+# sat = {1,2,3,4}     
 # print(sat)
 # sat1 = {1,2,3,4}
 # sat1
@@ -158,8 +203,9 @@ sat = {1,2,3,4}
 #     print("False")
 
 
-
-
+# a = [1,2,3,4,8]
+# for x in a:
+#     print(x)
 
 
 
@@ -348,16 +394,31 @@ sat = {1,2,3,4}
 
 
 # looping 
-# >>>>>>>>while <<<<<<<<<<<<<<<<<<<<<<<<<<<<
-a = 0
-while a<10:
-    print(a)
-    a+=1
-    if a ==7:
-        break
+# >>>>>>>>while <<<<<<<<<<<<<<<<<<<<<<<<<
+# a = [ 1,2,5,4]
+# for x in a:
+#     print(x )
+
+# # a = 0
+# while x<10:
+#     print(x)
+#     a+=1
+#     if a ==7:
+#         break
 # a+=3
 # a = a +3
 # a = a+
+
+
+
+
+# function 
+def my_function(): # define a function 
+    a = 1
+    print(a)
+    
+my_function()  ## calling a function 
+
 
 
 
