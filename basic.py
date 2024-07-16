@@ -1,6 +1,6 @@
 # String 
 # name = "Rohit one"
-a = 1
+# a = 1
 
 # new_variable = name.replace("Rohit","Ritik")
 # predifine print()
@@ -126,8 +126,10 @@ a = 1
 # formate = {key : value }
 
 
-# dct = {'name':"Ritk",'cls':"second year","Rollno":'21'}
-# name is key and ritik is value
+# dct = {'name':"Ritik",'cls':"second year","Rollno":'21'}
+# # name is key and ritik is value
+# print(dct)
+# print(dct['name'])
 # print(dct['name'])
 # (['name', 'cls', 'Rollno'])
 
@@ -137,9 +139,18 @@ a = 1
 # print(len(dct))
 # print(dct.keys())
 # print(dct.values())
+# print(dct.keys())
+# print(dct.values())
 
 # dct = {'name':"Ritk",'cls':"second year","Rollno":'21'}
 # print(dct)
+# # for while 
+# for x in dct.items():
+#     print(x)
+
+
+
+
 
 # for key in dct:
 #     print(key)
@@ -165,7 +176,11 @@ a = 1
 # for x in name:
 #     print(x)
 # >>>>>>>>>>>>>>>>>>>>>>>>set<<<<<<<<<<<<<<<<<<<<<<
-# a = {    }
+# a = {    
+# }
+
+# **2 **8
+# key or value nhi hote hai bhaii 
 
 
 # sat = {1,2,3,4}     
@@ -365,6 +380,52 @@ a = 1
 
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>LOOPING<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# for
+# name = "hello"
+# for word in name:
+#     print(word)
+# (i = 0 ; i>10; i++)
+# a = [ 1,5,2,7,6]
+# for lst_number in a:
+#     print(lst_number)
+# a= (4,8,9)
+# tuple
+# list
+# dict
+# set
+# str
+# for tpl in a:
+#     print(tpl)
+
+# for x in range(10):
+#     print(x)
+
+# for x in range(1,10):
+
+#     print(x)
+
+
+
+
+
+
+# while
+# a = 18
+# while a>10:
+
+#     print(a)
+
+
+
+
+
+
+
+
+
+
+
+
 # FOR 
 # while
 # DO while
@@ -400,9 +461,16 @@ a = 1
 #     print(x )
 
 # # a = 0
-# while x<10:
+# x= [1,5,7,8]
+# # y= [1,5,7,8]
+
+# while x>10:
 #     print(x)
-#     a+=1
+#     x-=1
+
+
+
+
 #     if a ==7:
 #         break
 # a+=3
@@ -413,11 +481,11 @@ a = 1
 
 
 # function 
-def my_function(): # define a function 
-    a = 1
-    print(a)
+# def my_function(): # define a function 
+#     a = 1
+#     print(a)
     
-my_function()  ## calling a function 
+# my_function()  ## calling a function 
 
 
 
